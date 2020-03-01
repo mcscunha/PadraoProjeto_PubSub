@@ -1,0 +1,2 @@
+'''Padrao de Projeto PubSub'''
+
